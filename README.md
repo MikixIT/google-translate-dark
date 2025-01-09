@@ -1,5 +1,5 @@
 # google-translate-dark
 
-Google Translate Dark Mode for Chrome.
+Google Translate Dark Mode for Chrome by [MikixIT](https://github.com/MikixIT/).
 
-## How to **INSTALL**
+# Devs Branch
