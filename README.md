@@ -1,4 +1,4 @@
-## Google Translate Dark Mode for Chrome. 
+## Extension Google Translate Dark Mode for Chrome. 
 
 
 ![](logo-md.jpg)
