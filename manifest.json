@@ -1,10 +1,26 @@
 {
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
-  "version": "1.0",
   "manifest_version": 3,
-  "action": {
-    "default_popup": "hello.html",
-    "default_icon": "hello_extensions.png"
-  }
+  "name": "Console Log Estensione",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://translate.google.com/*",
+        "https://translate.google.it/*",
+        "https://translate.google.de/*",
+        "https://translate.google.es/*",
+        "https://translate.google.fr/*",
+        "https://translate.google.co.uk/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "host_permissions": [
+    "https://translate.google.com/*",
+    "https://translate.google.it/*",
+    "https://translate.google.de/*",
+    "https://translate.google.es/*",
+    "https://translate.google.fr/*",
+    "https://translate.google.co.uk/*"
+  ]
 }
