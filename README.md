@@ -11,7 +11,7 @@ IMAGE HERE
 **Prerequisites:**
 
 - A Chromium-based browser (such as Google Chrome, Microsoft Edge, Brave, etc.)
-- Download the folder extension from [here](blob:https://downgit.github.io/fd463550-b5fc-4550-ad55-8737c0e290b9).
+- Download the folder extension from [here](https://github.com/MikixIT/google-translate-dark/archive/refs/tags/1.0.zip).
 
 **Steps:**
 
@@ -22,7 +22,7 @@ IMAGE HERE
     - **Cloning REPO Folder**
       https://github.com/MikixIT/google-translate-dark.git
 
-    - **ZIP Download:** --> [DOWNLOAD](blob:https://downgit.github.io/fd463550-b5fc-4550-ad55-8737c0e290b9)
+    - **ZIP Download:** --> [DOWNLOAD](https://github.com/MikixIT/google-translate-dark/archive/refs/tags/1.0.zip)
 
 2.  **Open the Extensions Section page in Chrome:**
 
