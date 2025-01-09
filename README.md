@@ -1,15 +1,17 @@
-# google-traslate-dark
+## Google Traslate Dark Mode for Chrome. 
+#### Available only in Dev Mod, FREE and FREE ADS **FOREVER** by MikixIT.
 
-Google Traslate Dark Mode for Chrome.
+IMAGE HERE
 
-# Installing a Chrome App in Developer Mode from GitHub
 
-This guide explains how to install a Chrome app (or extension) in developer mode directly from a folder on GitHub. This method is useful for testing your apps during development.
+# How to install a Chrome App in Developer Mode from GitHub?
+
+*This guide explains how to install a Chrome app (or extension) in developer mode directly from a folder on GitHub.*
 
 **Prerequisites:**
 
 - A Chromium-based browser (such as Google Chrome, Microsoft Edge, Brave, etc.)
-- Download the folder extension.
+- Download the folder extension from [here](blob:https://downgit.github.io/fd463550-b5fc-4550-ad55-8737c0e290b9).
 
 **Steps:**
 
