@@ -1,9 +1,11 @@
 ## Google Translate Dark Mode for Chrome. 
-#### Available only in Dev Mod, FREE and FREE ADS **FOREVER** by MikixIT.
+
 
 ![](logo-md.jpg)
 
+#### Available only in Dev Mod, FREE and FREE ADS **FOREVER** by MikixIT.
 
+---
 # How to install a Chrome App in Developer Mode from GitHub?
 
 *This guide explains how to install a Chrome extension in developer mode directly from a folder on GitHub.*
