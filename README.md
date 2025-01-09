@@ -1,4 +1,4 @@
-## Google Traslate Dark Mode for Chrome. 
+## Google Translate Dark Mode for Chrome. 
 #### Available only in Dev Mod, FREE and FREE ADS **FOREVER** by MikixIT.
 
 IMAGE HERE
