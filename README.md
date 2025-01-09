@@ -1,5 +1,5 @@
-# google-traslate-dark
+# google-translate-dark
 
-Google Traslate Dark Mode for Chrome.
+Google Translate Dark Mode for Chrome.
 
 ## How to **INSTALL**
