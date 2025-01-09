@@ -3,7 +3,7 @@
 
 ![](logo-md.jpg)
 
-#### Available only in Dev Mod, FREE and FREE ADS **FOREVER** by MikixIT.
+#### Available only in Dev Mod, FREE and FREE ADS **FOREVER** by [MikixIT](https://github.com/MikixIT/).
 
 ---
 # How to install a Chrome App in Developer Mode from GitHub?
