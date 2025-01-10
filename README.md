@@ -30,7 +30,7 @@
 
     Open your Chrome browser and type `chrome://extensions` in the address bar and press Enter.
 
-3.  **!IMPORTANR Enable "Developer mode":**
+3.  **!IMPORTANT Enable "Developer mode":**
 
     In the top right corner of the `chrome://extensions` page, you'll find a toggle labeled "Developer mode". Turn it on.
 
